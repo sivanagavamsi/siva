@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460">
+<rect width="800" height="460" rx="28" fill="#fff7ed"/><path d="M110 100h580v260H110z" fill="#fff" stroke="#fed7aa" stroke-width="5"/>
+<rect x="145" y="138" width="150" height="34" rx="17" fill="#f97316"/><text x="170" y="162" font-family="Arial" font-size="20" fill="#fff">GET /api</text>
+<rect x="145" y="198" width="510" height="20" rx="10" fill="#e4e4e7"/><rect x="145" y="238" width="390" height="20" rx="10" fill="#d4d4d8"/>
+<rect x="145" y="288" width="460" height="42" rx="12" fill="#18181b"/><text x="168" y="316" font-family="monospace" font-size="18" fill="#f97316">{ "status": "ok" }</text>
+</svg>
